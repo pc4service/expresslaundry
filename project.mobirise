@@ -65,7 +65,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Αρχική",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -744,7 +744,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/feb0e7e5-d7b0-4470-998f-a1dd1362e1c3-4-2000x1410.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -799,7 +799,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
